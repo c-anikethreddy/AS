@@ -32,7 +32,7 @@ public class AuthController {
 	@GetMapping(path = "/health")
 	public ResponseEntity<?> healthCheckup() {
 		log.info("AWS Health Check ");
-		return new ResponseEntity<>("Health is up, 200OK!!!", HttpStatus.OK);
+		return new ResponseEntity<>("Health is up, 200OK", HttpStatus.OK);
 	}
 
 	// Login to generate Token
