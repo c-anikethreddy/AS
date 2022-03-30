@@ -10,5 +10,5 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-    - target//authorization-service/target/AuthorizationService.jar
+    - target/AuthorizationService.jar
   discard-paths: yes
