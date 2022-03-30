@@ -13,4 +13,6 @@ artifacts:
     - target/AuthorizationService.jar
   discard-paths: yes   
 
-  
+
+
+
