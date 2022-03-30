@@ -15,10 +15,10 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 import org.springframework.security.core.userdetails.UserDetails;
 
-import com.cognizant.authorizationservice.exception.UserNotFoundException;
+//import com.cognizant.authorizationservice.exception.UserNotFoundException;
 import com.cognizant.authorizationservice.model.Pensioner;
 import com.cognizant.authorizationservice.repository.UserRepository;
-import com.cognizant.authorizationservice.service.UserDetailService;
+//import com.cognizant.authorizationservice.service.UserDetailService;
 
 @SpringBootTest
 public class UserDetailServiceTest {
