@@ -54,7 +54,7 @@ class AuthControllerTest {
 	@Test
 	public void getHealthTest() throws Exception {
 		MvcResult result = mockMvc.perform(get("/health")).andReturn();
-		String healthExpected = "Health is up, 200OK";
+		String healthExpected = "Health is up, 200OK!!!";
 		assertEquals(healthExpected, result.getResponse().getContentAsString());
 	}
 
