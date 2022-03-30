@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 
 import org.springframework.boot.test.context.SpringBootTest;
 
-import com.cognizant.authorizationservice.model.Pensioner;
+//import com.cognizant.authorizationservice.model.Pensioner;
 
 @SpringBootTest
 public class PensionerTest {

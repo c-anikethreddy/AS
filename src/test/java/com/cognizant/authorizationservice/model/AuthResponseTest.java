@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.cognizant.authorizationservice.model.AuthResponse;
+//import com.cognizant.authorizationservice.model.AuthResponse;
 
 @SpringBootTest
 

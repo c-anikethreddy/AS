@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import com.cognizant.authorizationservice.model.JwtRequest;
+//import com.cognizant.authorizationservice.model.JwtRequest;
 
 @SpringBootTest
 public class JwtRequestTest {

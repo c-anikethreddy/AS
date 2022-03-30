@@ -13,12 +13,12 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
 
-import com.cognizant.authorizationservice.exception.UserNotFoundException;
+//import com.cognizant.authorizationservice.exception.UserNotFoundException;
 import com.cognizant.authorizationservice.repository.UserRepository;
-import com.cognizant.authorizationservice.service.JwtTokenUtil;
+//import com.cognizant.authorizationservice.service.JwtTokenUtil;
 
 import io.jsonwebtoken.Claims;
-import io.jsonwebtoken.Jwts;
+//import io.jsonwebtoken.Jwts;
 
 @SpringBootTest
 public class JwtTokenUtilTest {
